@@ -1,0 +1,12 @@
+#mapa {
+    height: 512px; 
+    width:512px;
+}
+
+#nazwa_miasta {
+    font-weight: bold;
+}
+
+#tekst_wynik {
+    font-weight: bold;
+}
